@@ -1,0 +1,18 @@
+body {
+  background-color: #111;
+  color: white;
+  font-family: monospace;
+  text-align: center;
+  margin: 0;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+  background: #222;
+  image-rendering: pixelated;
+}
+
+.ui {
+  margin-top: 10px;
+}
