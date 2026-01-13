@@ -394,6 +394,7 @@ class Skeleton {
     this.vx = -1;
     this.vy = 0;
     this.onGround = false;
+    this.alive = true;
   }
 
   update(platforms) {
